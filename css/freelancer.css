@@ -65,7 +65,7 @@ hr.star-light:after {
     color: #fff;
     background-color: #2fa9dd;
 }
-#about>hr.star-light:after {
+#about .star-light:after {
     color: #fff;
     background-color: #18bc9c;
 }
